@@ -1,0 +1,27 @@
+﻿.makeInivisible
+{
+    display: none;
+}
+
+.fileStoreMainContainer
+{
+    margin-top: 79px;
+}
+
+.onlineUsers
+{
+    display: inline-block;
+vertical-align: top;
+font-size: 11px;
+}
+
+#fileupload
+{
+    display: inline-block;
+}
+
+.displayInlineBkVrtTop
+{
+     display: inline-block;
+vertical-align: top;
+}

@@ -1,0 +1,46 @@
+﻿body {
+}
+
+.privateChatTitle {
+    font-family: cursive;
+}
+
+.chatPage-mainContainer {
+}
+
+.chatPage-hdnDownloadButton {
+    display: none;
+}
+
+.chatPage-iframeFileShareWindow {
+    margin-top: 31px;
+    width: 700px;
+    height: 400px;
+}
+
+.chatPage-onlineUsers {
+}
+
+.chatPage-fileStoreLink {
+    display: inline-block;
+    vertical-align: top;
+    margin: 38px 5px 8px 63px;
+}
+
+.chatPage-onlineUsersTitle {
+    font-size: 17px;
+    font-family: cursive;
+}
+
+.displayInlineBkVrtTop {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.chatPage-globalFileShare {
+    margin-left: 13px !important;
+}
+
+.chatPage-fileStoreHeading {
+    margin-left: 235px !important;
+}
